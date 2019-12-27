@@ -1,10 +1,5 @@
 #! python3
 
-"""
-tictactoe.py - is a text-based adaptation of the TicTacToe game in Python.
-It features a game between an inteligent AI personality (Chip) and an human opponent.
-"""
-
 import random
 
 print('Welcome! This is Tic Tac Toe!')

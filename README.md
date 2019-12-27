@@ -1,1 +1,2 @@
-This Tic Tac Toe game is designed to play a code algorithm against a human.
+This is a text-based adaptation of the TicTacToe game in Python.
+It features a game between an inteligent AI personality (Chip) and an human opponent.
